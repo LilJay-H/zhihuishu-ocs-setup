@@ -6,7 +6,7 @@
 
 ## 使用
 
-1. [下载 v10 技能包](https://github.com/LilJay-H/zhihuishu-ocs-setup/releases/download/v10/zhihuishu-ocs-setup-v10.zip)，解压，保留两个文件在同一文件夹中。
+1. [下载 v1 技能包](https://github.com/LilJay-H/zhihuishu-ocs-setup/releases/download/v1/zhihuishu-ocs-setup-v1.zip)，解压，保留两个文件在同一文件夹中。
 2. 将解压目录提供给 Agent，发送：
 
    > 请读取这个文件夹里的 SKILL.md，帮我安装智慧树助手。
@@ -30,7 +30,7 @@ zhihuishu-ocs-setup/
 
 ## 验证范围
 
-v10 对应的安装路径已在作者电脑验证：重新下载、发布摘要校验、静默安装、版本识别和程序启动均成功，用户确认课程正常播放。测试保留了既有浏览器数据。
+v1 对应的安装路径已在作者电脑验证：重新下载、发布摘要校验、静默安装、版本识别和程序启动均成功，用户确认课程正常播放。测试保留了既有浏览器数据。
 
 默认 UAC 设置下的弹窗、完全首次初始化、新用户对固定讲解的理解仍需新机验证；视频弹题处理未独立实测。播放正常不等于平台已保存学习进度。首次使用范围不包含题库、作业考试或长期挂机。
 
